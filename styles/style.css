@@ -263,7 +263,7 @@
 
 /* Add the CSS rule for your new class here. Make sure to place it before .card: parents should precede their children */
 
-.staff__staff-list {
+.staff__cards {
   max-width: 760px;
   margin: 68px auto;
   display: flex;
@@ -425,7 +425,8 @@
 }
 
 .footer__logo {
-  width: 153px;
+  width: 116px;
+  height: 21px;
 }
 
 .footer__list {
